@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **MCP QA Framework**
 
-- 👨‍💻 All of my projects are available at [ajshuklafolio.netlify.app](ajshuklafolio.netlify.app)
+- 👨‍💻 All of my projects are available at [my website](ajshuklafolio.netlify.app)
 
 - 💬 Ask me about **Machine Learning Deep Learning Transformers Agents**
 
 - 📫 How to reach me **anshajshukla03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pLv8-DhLkllx7zUlWF7hGjudohAtiFqs/view?usp=sharing](https://drive.google.com/file/d/1pLv8-DhLkllx7zUlWF7hGjudohAtiFqs/view?usp=sharing)
+- 📄 Know about myself on a piece of paper then [go to my cv](https://drive.google.com/file/d/1pLv8-DhLkllx7zUlWF7hGjudohAtiFqs/view?usp=sharing)
 
 - ⚡ Fun fact **I don't know HTML**
 
