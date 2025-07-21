@@ -14,16 +14,16 @@
 
 <br>
 
-## About Me 🤹‍♂️
+## About Me 🤹‍♂
 
-- 🔭 Currently persuading electrons to obey in **MCP Job Agent**  
-- 🌱 Absorbing "Lots of AI" – my RAM protests daily  
-- 👯 Seeking brave co-conspirators for **MCP QA Framework**  
+- 🔭 Currently building self-healing automations in *MCP Job Agent*
+- 🌱 Absorbing "Lots of AI" – my RAM protests daily
+- 👯 Seeking brave co-conspirators for *MCP QA Framework*
 - 👨‍💻 All of my projects are available at [my website](https://ajshuklafolio.netlify.app)
-- 💬 Ask me about ML, DL, Transformers… or the time I pushed `rm -rf /` to prod  
-- 📫 How to reach me **anshajshukla03@gmail.com**
-- 📄 [Resume – folds neatly into a paper airplane](https://drive.google.com/file/d/1pLv8-DhLkllx7zUlWF7hGjudohAtiFqs/view?usp=sharing)  
-- ⚡ Fun fact: still don't know HTML, but VS Code says otherwise  
+- 💬 Ask me about ML, DL, Transformers… or the time I pushed rm -rf / to prod
+- 📫 Reach me via [LinkedIn](https://linkedin.com/in/anshajshukla) or email *anshajshukla03@gmail.com*
+- 📄 [My Resume (PDF) – Folds neatly into a paper airplane ✈](https://drive.google.com/file/d/1pLv8-DhLkllx7zUlWF7hGjudohAtiFqs/view?usp=sharing)
+- ⚡ Fun fact: still don't know HTML, but VS Code says otherwise
 
 <br>
 
@@ -38,7 +38,7 @@
 
 <br>
 
-## Tech Stack 🛠️
+## Tech Stack 🛠
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js" height="42"/>
@@ -47,6 +47,14 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" height="42"/>
   <img src="https://skillicons.dev/icons?i=selenium,zapier" height="42"/>
 </p>
+
+<br>
+
+## Featured Projects 💡
+
+- 🔗 [MCP Job Agent](https://github.com/anshajshukla/mcp-job-agent): Self-healing job automation pipeline.
+- 🔗 [MCP QA Framework](https://github.com/anshajshukla/mcp-qa-framework): A lightweight test harness for data integrity.
+- 🔗 [PDF QA Bot](https://github.com/anshajshukla/pdf-qa-bot): RAG-based AI assistant for document QA.
 
 <br>
 
@@ -65,15 +73,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshajshukla&layout=compact&hide_border=true&theme=tokyonight&bg_color=20232a&title_color=58a6ff&text_color=79c0ff&icon_color=58a6ff" height="165"/>
 </p>
 
-<br>
-
-## Coding Streak 🔥
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshajshukla&theme=tokyonight&hide_border=true&stroke=58a6ff&background=20232a&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=58a6ff" />
-</p>
-
-<br>
 
 ## Activity Graph 📈
 
@@ -85,12 +84,11 @@
 
 ## Contribution Calendar 🐍
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://github.com/anshajshukla/anshajshukla/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
 
+<br>
 
 ## Footer
 
@@ -98,7 +96,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=anshajshukla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
-  
+
   <p>
     <em>Thanks for visiting! Let's connect and build something amazing together. 🚀</em>
   </p>
